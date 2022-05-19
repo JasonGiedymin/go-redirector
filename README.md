@@ -1,7 +1,7 @@
 # README
 
 [![Build Status](https://github.com/jasongiedymin/go-redirector/workflows/branch/badge.svg)](https://github.com/jasongiedymin/go-redirector/actions?workflow=branch)
-[![Coverage Status](https://coveralls.io/repos/github/jasongiedymin/go-redirector/badge.svg?branch=main)](https://coveralls.io/github/jasongiedymin/go-redirector?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/JasonGiedymin/go-redirector/badge.svg?branch=main)](https://coveralls.io/github/JasonGiedymin/go-redirector?branch=main)
 [![Go Report Card](https://goreportcard.com/badge/github.com/jasongiedymin/go-redirector)](https://goreportcard.com/report/github.com/jasongiedymin/go-redirector)
 
 
