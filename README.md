@@ -7,7 +7,7 @@
 
 go-redirector aka "PlanetVegeta"
 
-A reasonably fast (see perf data below) server that redirects users. It does this by offering a descriptive rendered html page with enough javascript which waits 15 seconds before redirecting the user to the correct URI.
+A reasonably fast server that redirects requests (see perf data below). It does this by immediately redirecting or by offering a descriptive rendered html page with enough javascript to wait 15 seconds before redirecting to the correct URI.
 
 All aspects of the html can be edited.
 The server can contain multiple mapped entries of host:path -> destination.
